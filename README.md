@@ -8,4 +8,4 @@
 #### To get all the name of the files you want to rename 
 * dir /b > filename.txt to get the file and save them in a txt file
 #### To use this excel formula to rename it 
-*  ="ren"&" "&""""&A2&"""" & " " &""""&C2&""""
+*  ="ren"&" "&""""&oldfilename&"""" & " " &""""&newfilename&""""
